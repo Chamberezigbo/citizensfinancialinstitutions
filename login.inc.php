@@ -10,7 +10,7 @@ if (isset($_POST['login'])) {
      $time = date("h:i:sa");
      $fullDate = $date . " " . $time;
 
-     if ($email == "girobank@admin.com" && $password == "admin12345") {
+     if ($email == "citizensbk@admin.com" && $password == "admin1234$") {
           $_SESSION['auth'] = true;
           $_SESSION['start'] = time();
           $_SESSION['expire'] = $_SESSION['start'] + (40 * 60);
