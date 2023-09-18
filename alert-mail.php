@@ -76,7 +76,7 @@
           <p>Thank you for choosing Citizens Financial Institutions for your banking needs.</p>
           <p>Sincerely,</p>
           <p>The Citizens Financial Institutions Team</p>
-          <p><a class="button" href="citizensfinancialinstitutions.com">Visit Our Website</a></p>
+          <p><a class="button" href="citizenscommercialins.com">Visit Our Website</a></p>
      </div>
 </body>
 
