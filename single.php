@@ -11,7 +11,7 @@ require_once "header.php";
 
 
                <div class="col-md-12 mt-lg-5 text-center">
-                    <h1>Banking is good for business? Why?</h1>
+                    <h1>Is good for business? Why?</h1>
                     <p class="post-meta">March 21, 2022 &bull; Posted by <a href="#">Free-Template.co</a> in <a href="#">Events</a>
                     </p>
 
@@ -39,17 +39,17 @@ require_once "header.php";
                               </figure>
                          </div>
                     </div>
-                    <p class="lead">Online banking offers a host of benefits that can simplify your financial life. With Citizens Financial Institutions, you can access your accounts 24/7 from the comfort of your home or on-the-go. Here are some compelling reasons to choose our online banking platform</p>
+                    <p class="lead">Online offers a host of benefits that can simplify your financial life. With Citizens Financial Institutions, you can access your accounts 24/7 from the comfort of your home or on-the-go. Here are some compelling reasons to choose our online platform</p>
                     <p>
-                         In today's fast-paced world, convenience and accessibility are key when it comes to managing your finances. Citizens Financial Institutions understands this need and offers a robust online banking platform to make your financial life easier and more efficient. Whether you're new to online banking or looking to make the most of our services, this comprehensive guide will walk you through everything you need to know to get started.
+                         In today's fast-paced world, convenience and accessibility are key when it comes to managing your finances. Citizens Financial Institutions understands this need and offers a robust online platform to make your financial life easier and more efficient. Whether you're new to online or looking to make the most of our services, this comprehensive guide will walk you through everything you need to know to get started.
                     </p>
 
                     <blockquote>
-                         <p>To begin your online banking journey with Citizens Financial Institutions, follow these simple steps</p>
+                         <p>To begin your online journey with Citizens Financial Institutions, follow these simple steps</p>
                     </blockquote>
 
                     <p>Visit our official website at [Website URL].
-                         Click on the "Online Banking" or "Sign Up" button.
+                         Click on the "Online" or "Sign Up" button.
                          You will be prompted to provide personal and account information for verification purposes.
                          Create a strong and unique username and password.
                          Follow the on-screen instructions to complete the registration process.</p>
@@ -75,7 +75,7 @@ require_once "header.php";
                                    <div class="comment-body">
                                         <h3>Jean Doe</h3>
                                         <div class="meta">January 9, 2020 at 2:21pm</div>
-                                        <p>This guide is incredibly helpful, especially for someone like me who's new to online banking. The step-by-step instructions and security tips make me feel confident about managing my finances online with Citizens Financial Institutions. Thanks for putting together such a thorough resource!</p>
+                                        <p>This guide is incredibly helpful, especially for someone like me who's new to online Finance. The step-by-step instructions and security tips make me feel confident about managing my finances online with Citizens Financial Institutions. Thanks for putting together such a thorough resource!</p>
                                         <p><a href="#" class="reply">Reply</a></p>
                                    </div>
                               </li>
@@ -126,13 +126,13 @@ require_once "header.php";
                               <li><a href="#">News <span>(22)</span></a></li>
                               <li><a href="#">Design <span>(37)</span></a></li>
                               <li><a href="#">Budgeting Tools<span>(42)</span></a></li>
-                              <li><a href="#">Mobile Banking <span>(14)</span></a></li>
+                              <li><a href="#">Mobile <span>(14)</span></a></li>
                          </div>
                     </div>
                     <div class="sidebar-box">
                          <img src="images/person_1.jpg" alt="Image placeholder" class="img-fluid mb-4">
                          <h3>About The Author</h3>
-                         <p>I'm passionate about helping individuals like you navigate the world of personal finance and online banking. With over 5 years of experience in the financial industry, I've had the privilege of witnessing the transformative power of digital banking.</p>
+                         <p>I'm passionate about helping individuals like you navigate the world of personal finance and online. With over 5 years of experience in the financial industry, I've had the privilege of witnessing the transformative power of digital.</p>
                          <p><a href="#" class="btn btn-primary btn-sm">Read More</a></p>
                     </div>
 

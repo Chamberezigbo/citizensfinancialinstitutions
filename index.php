@@ -37,8 +37,8 @@ require_once "header.php";
                          </div>
 
                          <div class="slide">
-                              <h1 class="text-uppercase" data-aos="fade-up">Personal Banking</h1>
-                              <p class="mb-5 desc" data-aos="fade-up" data-aos-delay="100">Checking Accounts: Choose from a variety of checking account options to suit your daily banking needs.</p>
+                              <h1 class="text-uppercase" data-aos="fade-up">Personal</h1>
+                              <p class="mb-5 desc" data-aos="fade-up" data-aos-delay="100">Checking Accounts: Choose from a variety of checking account options to suit your daily needs.</p>
                               <div data-aos="fade-up" data-aos-delay="100">
                                    <a href="#" data-toggle="modal" data-target="#exampleModal" class="btn  btn-primary mr-2 mb-2">Get Started</a>
                               </div>
@@ -86,7 +86,7 @@ require_once "header.php";
 
                     <p>At Citizens Financial Institutions, we are dedicated to serving the financial needs of our community.</p>
 
-                    <p>With a history deeply rooted in providing reliable banking services, we are committed to helping individuals, businesses, and organizations achieve their financial goals.</p>
+                    <p>With a history deeply rooted in providing reliable services, we are committed to helping individuals, businesses, and organizations achieve their financial goals.</p>
 
                </div>
           </div>
@@ -123,15 +123,15 @@ require_once "header.php";
                </div>
                <div class="col-lg-5 ml-auto" data-aos="fade-up" data-aos-delay="100">
                     <div class="mb-4">
-                         <h3 class="h3 mb-4 text-black">Banking Solutions Is Our Priority</h3>
-                         <p>We embrace innovation and technology to continually improve our services. We stay ahead of the curve to provide you with modern banking solutions.</p>
+                         <h3 class="h3 mb-4 text-black">Solutions Is Our Priority</h3>
+                         <p>We embrace innovation and technology to continually improve our services. We stay ahead of the curve to provide you with modern solutions.</p>
 
                     </div>
 
                     <div class="mb-4">
                          <ul class="list-unstyled ul-check success">
-                              <li>Online and Mobile Banking</li>
-                              <li>Business Banking</li>
+                              <li>Online and Mobile </li>
+                              <li>Business </li>
                               <li>Loans and Mortgages</li>
                          </ul>
 
@@ -153,7 +153,7 @@ require_once "header.php";
           <div class="row mb-5 justify-content-center">
                <div class="col-md-8 text-center">
                     <h2 class="section-title mb-3" data-aos="fade-up" data-aos-delay="">Meet Team</h2>
-                    <p class="lead" data-aos="fade-up" data-aos-delay="100">Our success is driven by the exceptional individuals who make up our banking team. Comprising a diverse group of professionals with a shared commitment to excellence, our team is here to serve you and provide the highest level of financial services and expertise.</p>
+                    <p class="lead" data-aos="fade-up" data-aos-delay="100">Our success is driven by the exceptional individuals who make up our team. Comprising a diverse group of professionals with a shared commitment to excellence, our team is here to serve you and provide the highest level of financial services and expertise.</p>
                </div>
           </div>
           <div class="row">
@@ -191,7 +191,7 @@ require_once "header.php";
                          </figure>
                          <div class="p-3">
                               <h3>Dave Simpson</h3>
-                              <span class="position">Bank Teller</span>
+                              <span class="position">Teller</span>
                          </div>
                     </div>
                </div>
@@ -209,7 +209,7 @@ require_once "header.php";
                          </figure>
                          <div class="p-3">
                               <h3>Ben Thompson</h3>
-                              <span class="position">Bank Teller</span>
+                              <span class="position">Teller</span>
                          </div>
                     </div>
                </div>
@@ -332,7 +332,7 @@ require_once "header.php";
           <div class="row mb-5 justify-content-center">
                <div class="col-md-7 text-center">
                     <h2 class="section-title mb-3" data-aos="fade-up" data-aos-delay="">How It Works</h2>
-                    <p class="lead" data-aos="fade-up" data-aos-delay="100">In today's digital age, online banking has revolutionized the way we manage our finances. It offers convenience, security, and accessibility like never before</p>
+                    <p class="lead" data-aos="fade-up" data-aos-delay="100">In today's digital age, online Finance has revolutionized the way we manage our finances. It offers convenience, security, and accessibility like never before</p>
                </div>
           </div>
 
@@ -354,13 +354,13 @@ require_once "header.php";
                     <div class="owl-carousel slide-one-item-alt-text">
                          <div>
                               <h2 class="section-title mb-3">01. Account Setup</h2>
-                              <p>In today's digital age, online banking has revolutionized the way we manage our finances. It offers convenience, security, and accessibility like never before. If you're new to online banking or looking to understand how it works.</p>
+                              <p>In today's digital age, online Finance has revolutionized the way we manage our finances. It offers convenience, security, and accessibility like never before. If you're new to online or looking to understand how it works.</p>
 
                               <p><a href="#" class="btn btn-primary mr-2 mb-2">Learn More</a></p>
                          </div>
                          <div>
                               <h2 class="section-title mb-3">02. Logging In</h2>
-                              <p>Once your online banking account is set up, log in using your username and password</p>
+                              <p>Once your online account is set up, log in using your username and password</p>
                               <p><a href="#" class="btn btn-primary mr-2 mb-2">Learn More</a></p>
                          </div>
                          <div>
@@ -395,7 +395,7 @@ require_once "header.php";
                          </div>
                          <div>
                               <h3>Business Consulting</h3>
-                              <p>Personal Banking: Discover a wide range of personal banking services designed to simplify your financial life. From savings and checking accounts to loans and credit cards, we have you covered</p>
+                              <p>Personal : Discover a wide range of personal services designed to simplify your financial life. From savings and checking accounts to loans and credit cards, we have you covered</p>
                               <!-- <p><a href="#">Learn More</a></p> -->
                          </div>
                     </div>
@@ -406,8 +406,8 @@ require_once "header.php";
                               <img src="images/flaticon-svg/svg/006-credit-card.svg" alt="Free Website Template by Free-Template.co" class="img-fluid w-25 mb-4">
                          </div>
                          <div>
-                              <h3>Business Banking</h3>
-                              <p>We understand the complexities of running a business. Our business banking solutions are tailored to support your growth and financial stability</p>
+                              <h3>Business </h3>
+                              <p>We understand the complexities of running a business. Our business Finance solutions are tailored to support your growth and financial stability</p>
                               <!-- <p><a href="#">Learn More</a></p> -->
                          </div>
                     </div>
@@ -433,7 +433,7 @@ require_once "header.php";
                          </div>
                          <div>
                               <h3>Security Features</h3>
-                              <p>Online banking is secure. Banks employ encryption protocols and robust security measures to protect your data</p>
+                              <p>Online is secure.Employ encryption protocols and robust security measures to protect your data</p>
                               <!-- <p><a href="#">Learn More</a></p> -->
                          </div>
                     </div>
@@ -444,8 +444,8 @@ require_once "header.php";
                               <img src="images/flaticon-svg/svg/004-cart.svg" alt="Free Website Template by Free-Template.co" class="img-fluid w-25 mb-4">
                          </div>
                          <div>
-                              <h3>Mobile Banking</h3>
-                              <p>Many banks offer mobile banking apps, allowing you to access your accounts from your smartphone or tablet</p>
+                              <h3>Mobile</h3>
+                              <p>We offer mobile apps, allowing you to access your accounts from your smartphone or tablet</p>
                               <!-- <p><a href="#">Learn More</a></p> -->
                          </div>
                     </div>
@@ -457,7 +457,7 @@ require_once "header.php";
                          </div>
                          <div>
                               <h3>Customer Support</h3>
-                              <p>If you encounter any issues or have questions about online banking, most banks offer customer support via phone, email, or live chat.</p>
+                              <p>If you encounter any issues or have questions about online, most financial offer customer support via phone, email, or live chat.</p>
                               <!-- <p><a href="#">Learn More</a></p> -->
                          </div>
                     </div>
@@ -480,7 +480,7 @@ require_once "header.php";
                <div class="testimonial">
 
                     <blockquote class="mb-5">
-                         <p>&ldquo;Switching to Citizens Financial Institutions' online banking was a game-changer for me. I can't express how convenient and secure it has made managing my finances. From checking my account balances to paying bills and even applying for loans, everything is just a click away.&rdquo;</p>
+                         <p>&ldquo;Switching to Citizens Financial Institutions' online was a game-changer for me. I can't express how convenient and secure it has made managing my finances. From checking my account balances to paying bills and even applying for loans, everything is just a click away.&rdquo;</p>
                     </blockquote>
 
                     <figure class="mb-4 d-flex align-items-center justify-content-center">
@@ -493,7 +493,7 @@ require_once "header.php";
                <div class="testimonial">
 
                     <blockquote class="mb-5">
-                         <p>&ldquo;The user-friendly interface of their online banking platform makes it incredibly easy to navigate, and I love the added security features like two-factor authentication. I feel confident that my financial information is in safe hands.&rdquo;</p>
+                         <p>&ldquo;The user-friendly interface of their online platform makes it incredibly easy to navigate, and I love the added security features like two-factor authentication. I feel confident that my financial information is in safe hands.&rdquo;</p>
                     </blockquote>
                     <figure class="mb-4 d-flex align-items-center justify-content-center">
                          <div><img src="images/person_2.jpg" alt="Image" class="w-50 img-fluid mb-3"></div>
@@ -522,7 +522,7 @@ require_once "header.php";
                <div class="testimonial">
 
                     <blockquote class="mb-5">
-                         <p>&ldquo;I can't recommend Citizens Financial Institutions' online banking enough. It has simplified my financial life and given me peace of mind. If you're looking for a reliable and efficient online banking experience, give them a try—you won't be disappointed!&rdquo;</p>
+                         <p>&ldquo;I can't recommend Citizens Financial Institutions' online enough. It has simplified my financial life and given me peace of mind. If you're looking for a reliable and efficient online experience, give them a try—you won't be disappointed!&rdquo;</p>
                     </blockquote>
                     <figure class="mb-4 d-flex align-items-center justify-content-center">
                          <div><img src="images/person_1.jpg" alt="Image" class="w-50 img-fluid mb-3"></div>
@@ -618,7 +618,7 @@ require_once "header.php";
                     </div>
 
                     <div class="mb-5" data-aos="fade-up" data-aos-delay="100">
-                         <h3 class="text-black h4 mb-4">How can I open a new account with your bank?</h3>
+                         <h3 class="text-black h4 mb-4">How can I open a new account?</h3>
                          <p>You can open a new account by visiting one of our branch locations or by filling out an online application on our website. Please bring the necessary identification and documentation.</p>
                     </div>
 
@@ -651,7 +651,7 @@ require_once "header.php";
 
                     <div class="mb-5" data-aos="fade-up" data-aos-delay="100">
                          <h3 class="text-black h4 mb-4">Can I access my accounts online?</h3>
-                         <p>Yes, you can access your accounts online through our secure online banking portal or mobile app. You can check balances, transfer funds, and more.</p>
+                         <p>Yes, you can access your accounts online through our secure online portal or mobile app. You can check balances, transfer funds, and more.</p>
                     </div>
                </div>
           </div>
@@ -722,9 +722,9 @@ require_once "header.php";
                          <a href="single.html">
                               <img src="images/img_1.jpg" alt="Image" class="img-fluid">
                          </a>
-                         <h2 class="font-size-regular"><a href="#">Stay Secure: Tips for Safe Online Banking with Citizens Financial Institutions</a></h2>
+                         <h2 class="font-size-regular"><a href="#">Stay Secure: Tips for Safe operation with Citizens Financial Institutions</a></h2>
                          <div class="meta mb-4">Ham Brook <span class="mx-2">&bullet;</span> Jan 18, 2022<span class="mx-2">&bullet;</span> <a href="#">News</a></div>
-                         <p>In this comprehensive guide, we'll walk you through the process of setting up and using online banking with Citizens Financial Institutions. Learn how to register, log in, and take advantage of the many features and benefits of our online banking platform.</p>
+                         <p>In this comprehensive guide, we'll walk you through the process of setting up and using online with Citizens Financial Institutions. Learn how to register, log in, and take advantage of the many features and benefits of our online platform.</p>
                          <p><a href="single.php">Continue Reading...</a></p>
                     </div>
                </div>
@@ -733,9 +733,9 @@ require_once "header.php";
                          <a href="single.html">
                               <img src="images/img_4.jpg" alt="Image" class="img-fluid">
                          </a>
-                         <h2 class="font-size-regular"><a href="#">Managing Your Finances Anytime, Anywhere: The Benefits of Mobile Banking</a></h2>
+                         <h2 class="font-size-regular"><a href="#">Managing Your Finances Anytime, Anywhere: The Benefits of Mobile</a></h2>
                          <div class="meta mb-4">James Phelps <span class="mx-2">&bullet;</span> Jan 18, 2020<span class="mx-2">&bullet;</span> <a href="#">News</a></div>
-                         <p>Discover how mobile banking from Citizens Financial Institutions can make your life easier. Learn how to download and use our mobile app to access your accounts, transfer funds, pay bills, and more, all from the convenience of your smartphone.</p>
+                         <p>Discover how mobile app from Citizens Financial Institutions can make your life easier. Learn how to download and use our mobile app to access your accounts, transfer funds, pay bills, and more, all from the convenience of your smartphone.</p>
                          <p><a href="single.php">Continue Reading...</a></p>
                     </div>
                </div>
@@ -746,7 +746,7 @@ require_once "header.php";
                          </a>
                          <h2 class="font-size-regular"><a href="#">Maximizing Your Savings: Online Tools and Features at Citizens Financial Institutions"</a></h2>
                          <div class="meta mb-4">James Phelps <span class="mx-2">&bullet;</span> Jan 18, 2019<span class="mx-2">&bullet;</span> <a href="#">News</a></div>
-                         <p>Our online banking platform offers powerful tools to help you save and manage your money effectively. In this blog post, we'll explore features like budgeting tools, automatic transfers, and account alerts that can help you reach your financial goals.</p>
+                         <p>Our online platform offers powerful tools to help you save and manage your money effectively. In this blog post, we'll explore features like budgeting tools, automatic transfers, and account alerts that can help you reach your financial goals.</p>
                          <p><a href="single.php">Continue Reading...</a></p>
                     </div>
                </div>
@@ -784,7 +784,7 @@ require_once "header.php";
                <div class="col-md-4 text-center">
                     <p class="mb-0">
                          <span class="icon-mail_outline d-block h2 text-primary"></span>
-                         <a href="#">info@domain.com</a>
+                         <a href="#">info@citizenscommercialins.com</a>
                     </p>
                </div>
           </div>
