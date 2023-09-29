@@ -148,7 +148,7 @@ require_once "header.php";
 
 
 
-<section class="site-section border-bottom" id="team-section">
+<!-- <section class="site-section border-bottom" id="team-section">
      <div class="container">
           <div class="row mb-5 justify-content-center">
                <div class="col-md-8 text-center">
@@ -218,7 +218,7 @@ require_once "header.php";
 
           </div>
      </div>
-</section>
+</section> -->
 
 <section class="site-section" id="gallery-section" data-aos="fade">
 
