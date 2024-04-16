@@ -3,7 +3,7 @@
 $dbHost = "localhost";
 $dbUser = "root";
 $dbPass = "";
-$dbName = "girobk";
+$dbName = "banking";
 
 // $dbHost = "localhost";
 // $dbUser = "airships_user1";

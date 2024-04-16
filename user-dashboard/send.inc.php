@@ -23,7 +23,7 @@ if (isset($_POST['send'])) {
      $dbBalance = $_SESSION['balance'] * 1;
      $date = date("Y/m/d");
      $email = $_SESSION['email'];
-     $status = false;
+     $status = 0;
      $transactionID = rand(10000, 99999);
 
 

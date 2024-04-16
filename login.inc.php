@@ -35,6 +35,13 @@ if (isset($_POST['login'])) {
                     if ($password === $result['password']) {
                          $sql = "UPDATE  users SET lastSeen = '$fullDate'  WHERE email= '$email'";
                          $resultSeen = mysqli_query($conn, $sql);
+                         $resultSeen = mysqli_query($conn, $sql);
+                         if (!$resultSeen) {
+                         // Log the error or display it for debugging purposes
+                         echo "Error: " . mysqli_error($conn);
+                         // Handle the error gracefully, such as redirecting the user to an error page
+                         exit();
+                         }
                          if ($resultSeen) {
                               $_SESSION['auth'] = true;
                               $_SESSION['start'] = time();

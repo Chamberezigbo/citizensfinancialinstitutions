@@ -110,7 +110,7 @@
                     </div>
                     <div class="form-group form-control-sm">
                          <label for="turnover">Annual Turnover*</label>
-                         <input type="text" class="form-control form-control-sm" id="turnover" name="turnover" required>
+                         <input type="number" class="form-control form-control-sm" id="turnover" name="turnover" required>
                     </div>
                </div>
           </div>

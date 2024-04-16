@@ -24,6 +24,8 @@ if (!$id) die("Sorry you don't have permission to view this page");
                $balance = $row['balance'];
                $status = $row['status'];
                $email = $row['email'];
+               // Convert date format if needed
+               $date = date('Y-m-d', strtotime($date));
      ?>
 
                <div>
