@@ -1,8 +1,11 @@
+<?php
+$siteName = "Equity Trust"
+?>
 <!doctype html>
 <html lang="en">
 
 <head>
-     <title>Citizens Financial Institutions</title>
+     <title><?php echo $siteName ?> - Institutions</title>
      <meta charset="utf-8">
      <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 

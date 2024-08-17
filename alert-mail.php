@@ -1,10 +1,13 @@
+<?php
+$siteName = "Equity Trust"
+?>
 <!DOCTYPE html>
 <html lang="en">
 
 <head>
      <meta charset="UTF-8">
      <meta name="viewport" content="width=device-width, initial-scale=1.0">
-     <title>Citizens Financial Institutions - ##action## Card Transaction Notification</title>
+     <title><?= $siteName ?> Institutions - ##action## Card Transaction Notification</title>
      <style>
           /* Add your custom CSS styles here */
           body {
@@ -42,7 +45,7 @@
 
 <body>
      <div class="container">
-          <h1>Citizens Financial Institutions</h1>
+          <h1><?=$siteName ?>Institutions</h1>
           <p>Dear ##surname##,</p>
           <p>We wanted to inform you about a recent ##action## card transaction on your account:</p>
           <table>
@@ -73,10 +76,10 @@
           </table>
           <p>If you recognize this transaction and it is valid, no further action is required.</p>
           <p>If you did not authorize this transaction or have any concerns, please contact our customer support immediately at +12025686466 or reply to this email.</p>
-          <p>Thank you for choosing Citizens Financial Institutions for your banking needs.</p>
+          <p>Thank you for choosing <?=$siteName ?> Institutions for your banking needs.</p>
           <p>Sincerely,</p>
-          <p>The Citizens Financial Institutions Team</p>
-          <p><a class="button" href="citizenscommercialins.com">Visit Our Website</a></p>
+          <p>The <?=$siteName ?>Institutions Team</p>
+          <p><a class="button" href="https://equity-trustbk.com/">Visit Our Website</a></p>
      </div>
 </body>
 

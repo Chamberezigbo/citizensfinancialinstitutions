@@ -29,7 +29,7 @@ require_once "header.php";
                <div class="col-md-10 mt-lg-5 text-center">
                     <div class="single-text owl-carousel">
                          <div class="slide">
-                              <h1 class="text-uppercase" data-aos="fade-up">Citizens Financial Institutions</h1>
+                              <h1 class="text-uppercase" data-aos="fade-up"><?=$siteName ?> Institutions</h1>
                               <p class="mb-5 desc" data-aos="fade-up" data-aos-delay="100">Trusted name in the financial industry, committed to serving the financial needs of our community</p>
                               <div data-aos="fade-up" data-aos-delay="100">
                                    <a href="#" data-toggle="modal" data-target="#exampleModal" class="btn  btn-primary mr-2 mb-2">Get Started</a>
@@ -84,7 +84,7 @@ require_once "header.php";
 
                     <h3 class="text-black mb-4">We Solve Your Financial Problem</h3>
 
-                    <p>At Citizens Financial Institutions, we are dedicated to serving the financial needs of our community.</p>
+                    <p>At <?=$siteName ?> Financial Institutions, we are dedicated to serving the financial needs of our community.</p>
 
                     <p>With a history deeply rooted in providing reliable services, we are committed to helping individuals, businesses, and organizations achieve their financial goals.</p>
 
@@ -480,7 +480,7 @@ require_once "header.php";
                <div class="testimonial">
 
                     <blockquote class="mb-5">
-                         <p>&ldquo;Switching to Citizens Financial Institutions' online was a game-changer for me. I can't express how convenient and secure it has made managing my finances. From checking my account balances to paying bills and even applying for loans, everything is just a click away.&rdquo;</p>
+                         <p>&ldquo;Switching to <?=$siteName ?> Institutions' online was a game-changer for me. I can't express how convenient and secure it has made managing my finances. From checking my account balances to paying bills and even applying for loans, everything is just a click away.&rdquo;</p>
                     </blockquote>
 
                     <figure class="mb-4 d-flex align-items-center justify-content-center">
@@ -507,7 +507,7 @@ require_once "header.php";
                <div class="testimonial">
 
                     <blockquote class="mb-5">
-                         <p>&ldquo;What truly sets Citizens Financial Institutions apart is their excellent customer support. Whenever I have a question or need assistance, their support team is just a phone call or chat message away, and they're always quick to help.&rdquo;</p>
+                         <p>&ldquo;What truly sets <?=$siteName ?> Institutions apart is their excellent customer support. Whenever I have a question or need assistance, their support team is just a phone call or chat message away, and they're always quick to help.&rdquo;</p>
                     </blockquote>
                     <figure class="mb-4 d-flex align-items-center justify-content-center">
                          <div><img src="images/person_3.jpg" alt="Image" class="w-50 img-fluid mb-3"></div>
@@ -522,7 +522,7 @@ require_once "header.php";
                <div class="testimonial">
 
                     <blockquote class="mb-5">
-                         <p>&ldquo;I can't recommend Citizens Financial Institutions' online enough. It has simplified my financial life and given me peace of mind. If you're looking for a reliable and efficient online experience, give them a try—you won't be disappointed!&rdquo;</p>
+                         <p>&ldquo;I can't recommend <?=$siteName ?> Institutions' online enough. It has simplified my financial life and given me peace of mind. If you're looking for a reliable and efficient online experience, give them a try—you won't be disappointed!&rdquo;</p>
                     </blockquote>
                     <figure class="mb-4 d-flex align-items-center justify-content-center">
                          <div><img src="images/person_1.jpg" alt="Image" class="w-50 img-fluid mb-3"></div>
@@ -722,9 +722,9 @@ require_once "header.php";
                          <a href="single.html">
                               <img src="images/img_1.jpg" alt="Image" class="img-fluid">
                          </a>
-                         <h2 class="font-size-regular"><a href="#">Stay Secure: Tips for Safe operation with Citizens Financial Institutions</a></h2>
+                         <h2 class="font-size-regular"><a href="#">Stay Secure: Tips for Safe operation with <?=$siteName ?> Institutions</a></h2>
                          <div class="meta mb-4">Ham Brook <span class="mx-2">&bullet;</span> Jan 18, 2022<span class="mx-2">&bullet;</span> <a href="#">News</a></div>
-                         <p>In this comprehensive guide, we'll walk you through the process of setting up and using online with Citizens Financial Institutions. Learn how to register, log in, and take advantage of the many features and benefits of our online platform.</p>
+                         <p>In this comprehensive guide, we'll walk you through the process of setting up and using online with <?=$siteName ?> Institutions. Learn how to register, log in, and take advantage of the many features and benefits of our online platform.</p>
                          <p><a href="single.php">Continue Reading...</a></p>
                     </div>
                </div>
@@ -735,7 +735,7 @@ require_once "header.php";
                          </a>
                          <h2 class="font-size-regular"><a href="#">Managing Your Finances Anytime, Anywhere: The Benefits of Mobile</a></h2>
                          <div class="meta mb-4">James Phelps <span class="mx-2">&bullet;</span> Jan 18, 2020<span class="mx-2">&bullet;</span> <a href="#">News</a></div>
-                         <p>Discover how mobile app from Citizens Financial Institutions can make your life easier. Learn how to download and use our mobile app to access your accounts, transfer funds, pay bills, and more, all from the convenience of your smartphone.</p>
+                         <p>Discover how mobile app from <?=$siteName ?> Institutions can make your life easier. Learn how to download and use our mobile app to access your accounts, transfer funds, pay bills, and more, all from the convenience of your smartphone.</p>
                          <p><a href="single.php">Continue Reading...</a></p>
                     </div>
                </div>
@@ -744,7 +744,7 @@ require_once "header.php";
                          <a href="single.html">
                               <img src="images/img_3.jpg" alt="Image" class="img-fluid">
                          </a>
-                         <h2 class="font-size-regular"><a href="#">Maximizing Your Savings: Online Tools and Features at Citizens Financial Institutions"</a></h2>
+                         <h2 class="font-size-regular"><a href="#">Maximizing Your Savings: Online Tools and Features at <?=$siteName ?> Institutions"</a></h2>
                          <div class="meta mb-4">James Phelps <span class="mx-2">&bullet;</span> Jan 18, 2019<span class="mx-2">&bullet;</span> <a href="#">News</a></div>
                          <p>Our online platform offers powerful tools to help you save and manage your money effectively. In this blog post, we'll explore features like budgeting tools, automatic transfers, and account alerts that can help you reach your financial goals.</p>
                          <p><a href="single.php">Continue Reading...</a></p>

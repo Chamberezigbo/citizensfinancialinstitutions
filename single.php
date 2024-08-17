@@ -39,13 +39,13 @@ require_once "header.php";
                               </figure>
                          </div>
                     </div>
-                    <p class="lead">Online offers a host of benefits that can simplify your financial life. With Citizens Financial Institutions, you can access your accounts 24/7 from the comfort of your home or on-the-go. Here are some compelling reasons to choose our online platform</p>
+                    <p class="lead">Online offers a host of benefits that can simplify your financial life. With <?=$siteName ?> Institutions, you can access your accounts 24/7 from the comfort of your home or on-the-go. Here are some compelling reasons to choose our online platform</p>
                     <p>
-                         In today's fast-paced world, convenience and accessibility are key when it comes to managing your finances. Citizens Financial Institutions understands this need and offers a robust online platform to make your financial life easier and more efficient. Whether you're new to online or looking to make the most of our services, this comprehensive guide will walk you through everything you need to know to get started.
+                         In today's fast-paced world, convenience and accessibility are key when it comes to managing your finances. <?=$siteName ?> Institutions understands this need and offers a robust online platform to make your financial life easier and more efficient. Whether you're new to online or looking to make the most of our services, this comprehensive guide will walk you through everything you need to know to get started.
                     </p>
 
                     <blockquote>
-                         <p>To begin your online journey with Citizens Financial Institutions, follow these simple steps</p>
+                         <p>To begin your online journey with <?=$siteName ?> Institutions, follow these simple steps</p>
                     </blockquote>
 
                     <p>Visit our official website at [Website URL].
@@ -75,7 +75,7 @@ require_once "header.php";
                                    <div class="comment-body">
                                         <h3>Jean Doe</h3>
                                         <div class="meta">January 9, 2020 at 2:21pm</div>
-                                        <p>This guide is incredibly helpful, especially for someone like me who's new to online Finance. The step-by-step instructions and security tips make me feel confident about managing my finances online with Citizens Financial Institutions. Thanks for putting together such a thorough resource!</p>
+                                        <p>This guide is incredibly helpful, especially for someone like me who's new to online Finance. The step-by-step instructions and security tips make me feel confident about managing my finances online with <?=$siteName ?> Institutions. Thanks for putting together such a thorough resource!</p>
                                         <p><a href="#" class="reply">Reply</a></p>
                                    </div>
                               </li>
